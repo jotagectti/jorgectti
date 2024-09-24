@@ -2,8 +2,18 @@
 
 ## About me
 
-Escribir sobre nosotros...
+Soy Jorge y me gusta GIT, bienvenido al PULL y PUSH
 
 ## Contact me
 
-HAcer el cierre de la presenctacion, invitando a contactar....
+Contactame a traves de la interfaz de EGG y no olvidez darme un pulso
+
+## Adding Image
+## ![20230102_233448](/20230102_233448.jpg "imagen")
+
+"20230102_233448.jpg"
+
+## Technologies
+- Backend: Proficient in Java, I bring to the table a strong understanding of server side development
+
+- Frontend: My expertise in React allows me to create interactive and user friendly interfaces
